@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Audio Processing using C](https://github.com/kvsh2050/SelfProject_Audio_processing_C)
 
-- 🌱 I’m currently learning **C, Firmware, Systems Engineering**
+- 🌱 I’m currently learning **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
 
 - 👯 I’m looking to collaborate on **RISC V based Projects!**
 
