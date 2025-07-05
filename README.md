@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VfCw14UYCtQRZ8g2koJqmWEYjU9nTHRv/view?usp=drive_link](https://drive.google.com/file/d/1VfCw14UYCtQRZ8g2koJqmWEYjU9nTHRv/view?usp=drive_link)
 
-- ⚡ Fun fact **likes all music genre**
+- ⚡ LeetCode: https://leetcode.com/u/kvsh2050/ (I am using LeetCode for Problem Solving)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
