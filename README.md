@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kavyashree</h1>
-<h3 align="center">A passionate Embedded Systems Engineer & FPGA Design Engineer!</h3>
+<h3 align="center">A passionate Embedded Systems Engineer!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvsh2050" alt="kvsh2050" /></a> </p>
 
-- 🔭 I’m currently working on [Audio Processing using C](https://github.com/kvsh2050/SelfProject_Audio_processing_C)
+- 🔭 I am currently working on improving my skills better!
 
 - 🌱 I’m currently learning **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
 
-- 👯 I’m looking to collaborate on **RISC V based Projects!**
+- 👯 I’m looking to collaborate on **Embedded Systems and FPGA hardware design Projects!**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kvsh2050/kvsh2050.github.io](https://github.com/kvsh2050/kvsh2050.github.io)
 
-- 💬 Ask me about **FPGA, C, CMake, Communication Systems**
+- 💬 Ask me about **FPGA, C, CMake, Embedded Systems and AI on Emedded Systems and Edge devices**
 
 - 📫 How to reach me **kavyashreeacc@gmail.com**
 
