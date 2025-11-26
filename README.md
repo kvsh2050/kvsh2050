@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvsh2050" alt="kvsh2050" /></a> </p>
 
-- 🔭 I am currently working on improving my skills better!
+- 🔭 I am currently working on improving my skills to build usefule systems!
 
 - 🌱 I’m currently learning **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kvsh2050/kvsh2050.github.io](https://github.com/kvsh2050/kvsh2050.github.io)
 
-- 💬 Ask me about **FPGA, C, CMake, Embedded Systems and AI on Emedded Systems and Edge devices**
+- 💬 Ask me about **FPGA, C, Embedded Systems, Systems Engineering and AI on Emedded Systems and Edge devices**
 
 - 📫 How to reach me **kavyashreeacc@gmail.com**
 
