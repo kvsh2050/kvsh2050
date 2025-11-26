@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavyashree</h1>
-<h3 align="center">A passionate Embedded Systems Engineer!</h3>
+<h3 align="center">A passionate Embedded Systems Engineer bridging gap betweeen Hardware and Software!</h3>
 
 
 - 🔭 I am currently working on improving my skills to build usefule systems!
