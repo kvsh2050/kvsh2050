@@ -2,27 +2,21 @@
 <h3 align="center">A passionate Embedded Systems Engineer bridging gap betweeen Hardware and Software!</h3>
 
 
-- 🔭 I am currently working on improving my skills to build usefule systems!
-
-- 🌱 I’m currently learning **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
+- 🌱 I’m currently learning & Updating **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
 
 - 👯 I’m looking to collaborate on **Embedded Systems and FPGA hardware design Projects!**
 
 - 🤝 I’m looking for help with **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kvsh2050/kvsh2050.github.io](https://github.com/kvsh2050/kvsh2050.github.io)
+- 👨‍💻 Portfolio (https://github.com/kvsh2050/kvsh2050.github.io)
 
 - 💬 Ask me about **FPGA, C, Embedded Systems, Systems Engineering and AI on Emedded Systems and Edge devices**
 
-- 📫 How to reach me **kavyashreeacc@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VfCw14UYCtQRZ8g2koJqmWEYjU9nTHRv/view?usp=drive_link](https://drive.google.com/file/d/1VfCw14UYCtQRZ8g2koJqmWEYjU9nTHRv/view?usp=drive_link)
-
-- ⚡ LeetCode: https://leetcode.com/u/kvsh2050/ (I am using LeetCode for Problem Solving)
+- ⚡ LeetCode: https://leetcode.com/u/kvsh2050/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kavyashree-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyashree-r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kavyashrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyashree-r" height="30" width="40" /></a>
 </p>
 <h3 align="left">Stats:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kvsh2050" alt="kvsh2050" /></a> </p>
