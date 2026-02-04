@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kavyashree</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">A passionate Embedded Systems Engineer bridging gap betweeen Hardware and Software!</h3>
 
 
-- 🌱 I’m currently learning & Updating **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
+- 🌱 I’m currently learning & Improving on **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
 
 - 👯 I’m looking to collaborate on **Embedded Systems and FPGA hardware design Projects!**
 
