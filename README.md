@@ -21,7 +21,7 @@
   <a href="https://leetcode.com/u/kvsh2050/">
     <img src="https://img.shields.io/badge/LeetCode-kvsh2050-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://github.com/kvsh2050/kvsh2050.github.io">
+  <a href="https://kvsh2050.github.io/#home">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
