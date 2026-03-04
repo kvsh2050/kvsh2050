@@ -123,10 +123,9 @@ Engineer kavya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvsh2050&show_icons=true&theme=dark&bg_color=0d1117&border_color=203a43&title_color=4DD0E1&icon_color=80cbc4&text_color=e0f7fa&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsh2050&layout=compact&theme=dark&bg_color=0d1117&border_color=203a43&title_color=4DD0E1&text_color=e0f7fa&hide_border=false&langs_count=8" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvsh2050&theme=tokyonight" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvsh2050&theme=tokyonight" />
 
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvsh2050&theme=dark&background=0d1117&border=203a43&ring=4DD0E1&fire=80cbc4&currStreakLabel=4DD0E1" />
 
