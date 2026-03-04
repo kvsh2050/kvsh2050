@@ -1,26 +1,166 @@
-<h1 align="center">Hi 👋 </h1>
-<h3 align="center">A passionate Embedded Systems Engineer bridging gap betweeen Hardware and Software!</h3>
+<div align="center">
 
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kavya%20Shree%20R&fontSize=50&fontColor=e0f7fa&fontAlignY=38&desc=Embedded%20Systems%20%7C%20FPGA%20%7C%20Firmware%20%7C%20Edge%20AI&descAlignY=58&descSize=18&descColor=80cbc4&animation=fadeIn" />
 
-- 🌱 I’m currently learning & Improving on **C, Firmware, Systems Engineering, FPGA Advanced Concepts**
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4DD0E1&center=true&vCenter=true&width=700&lines=Bridging+Hardware+and+Software+%F0%9F%94%8C;FPGA+Design+%7C+ARM+Cortex+%7C+Linux+Kernel;Firmware+Engineer+%7C+Systems+Thinker;Edge+AI+%26+Embedded+Intelligence" alt="Typing SVG" />
+</a>
 
-- 👯 I’m looking to collaborate on **Embedded Systems and FPGA hardware design Projects!**
+<br/>
 
-- 🤝 I’m looking for help with **Open Source Projects**
-
-- 👨‍💻 Portfolio (https://github.com/kvsh2050/kvsh2050.github.io)
-
-- 💬 Ask me about **FPGA, C, Embedded Systems, Systems Engineering and AI on Emedded Systems and Edge devices**
-
-- ⚡ LeetCode: https://leetcode.com/u/kvsh2050/ 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kavyashrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavyashree-r" height="30" width="40" /></a>
+<!-- Social Badges -->
+<p>
+  <a href="https://linkedin.com/in/kavyashrer">
+    <img src="https://img.shields.io/badge/LinkedIn-kavyashree--r-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/kvsh2050">
+    <img src="https://img.shields.io/badge/GitHub-kvsh2050-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kvsh2050/">
+    <img src="https://img.shields.io/badge/LeetCode-kvsh2050-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/kvsh2050/kvsh2050.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br/>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=kvsh2050&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
 
+</div>
 
+---
+
+## 🧭 About Me
+
+```c
+typedef struct {
+    char  *name;
+    char  *role;
+    char  *focus[];
+    char  *collab;
+    char  *ask_me[];
+} Engineer;
+
+Engineer kavya = {
+    .name   = "Kavya",
+    .role   = "Engineer working in Hardware Design & CPU low level software",
+    .focus  = { "C / Firmware", "FPGA Advanced Concepts",
+                "Systems Engineering", "Edge AI" },
+    .collab = "Embedded Systems & FPGA hardware design projects",
+    .ask_me = { "FPGA", "C", "Embedded Systems",
+                "Linux Kernel", "AI on Edge Devices" },
+};
+```
+
+---
+
+## 🔩 Core Domains
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🏗️ Hardware & RTL**
+- FPGA Design (Verilog / VHDL)
+- ARM Cortex-A / Cortex-M Architecture
+- Linux Kernel from Scratch (ARM64)
+- Device Tree & Board Support Packages
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Software & Firmware**
+- Bare-metal C Firmware
+- RTOS & Interrupt-driven Systems
+- Signal Processing (DSP / PPG / FFT)
+- Edge AI & TinyML on Embedded Targets
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<!-- Languages -->
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-FF6B35?style=for-the-badge&logo=v&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<!-- Platforms -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- ML / Signal Processing -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+<!-- Other -->
+![GTK](https://img.shields.io/badge/GTK-7FBA00?style=for-the-badge&logo=gtk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kvsh2050&show_icons=true&theme=dark&bg_color=0d1117&border_color=203a43&title_color=4DD0E1&icon_color=80cbc4&text_color=e0f7fa&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvsh2050&layout=compact&theme=dark&bg_color=0d1117&border_color=203a43&title_color=4DD0E1&text_color=e0f7fa&hide_border=false&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kvsh2050&theme=dark&background=0d1117&border=203a43&ring=4DD0E1&fire=80cbc4&currStreakLabel=4DD0E1" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Linux Kernel Scratch**](https://github.com/kvsh2050/linux-kernel-scratch) | Boot ARM64 Linux from source with BusyBox initramfs in QEMU | `C` `ARM64` `QEMU` |
+| [**Verilog HDLBits**](https://github.com/kvsh2050/verilog-hdlbits) | 380+ HDL solutions — wires to Lemmings FSM | `Verilog` `FPGA` |
+| [**PPG Respiratory Rate**](https://github.com/kvsh2050/ppg-respiratory-rate) | Respiratory rate estimation from PPG via digital resonator + FFT | `Python` `DSP` `scipy` |
+
+---
+
+## 🤝 Let's Connect
+
+> I'm open to collaborating on **Embedded Systems**, **FPGA hardware design**, and **Open Source** projects.  
+> Feel free to reach out — hardware or software, let's build something real.
+
+<div align="center">
+  <a href="https://linkedin.com/in/kavyashrer">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:email@email_client.com">
+    <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</div>
