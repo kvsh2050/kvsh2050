@@ -138,9 +138,7 @@ Engineer kavya = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Linux Kernel Scratch**](https://github.com/kvsh2050/linux-kernel-scratch) | Boot ARM64 Linux from source with BusyBox initramfs in QEMU | `C` `ARM64` `QEMU` |
 | [**Verilog HDLBits**](https://github.com/kvsh2050/verilog-hdlbits) | 380+ HDL solutions — wires to Lemmings FSM | `Verilog` `FPGA` |
-| [**PPG Respiratory Rate**](https://github.com/kvsh2050/ppg-respiratory-rate) | Respiratory rate estimation from PPG via digital resonator + FFT | `Python` `DSP` `scipy` |
 
 ---
 
